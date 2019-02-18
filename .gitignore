@@ -26,3 +26,4 @@ build/
 nbproject/
 *.xml
 *.form
+*.mf
